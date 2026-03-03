@@ -17,6 +17,12 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+h1 {
+    color: #2ecc71;
+    font-size: 3rem;
+    text-align: left;
+}
+
 /* ========== NAVEGAÇÃO ========== */
 .navbar {
     display: flex;
